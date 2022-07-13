@@ -1,1 +1,5 @@
 ### Anotações: 
+
+- Primeiros passos
+- Comandos basicos
+- Commitando
