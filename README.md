@@ -1,6 +1,6 @@
 # Repositório Pessoal para Projetos Futuros:books:
 
-## SANTANDER BOOTCAMP MOBILE 2022
+## *SANTANDER BOOTCAMP MOBILE 2022*
 
 ### Módulo 0 - Prepare-se para a Jornada.
 
@@ -8,15 +8,11 @@
 - Seja Protagonista Neste Bootcamp
 - Boas Vindas ao Santander Bootcamp Mobile Developer
 
-
-
 ### Módulo l - Princípios de Desenvolvimento de Software.
 
 - Introdução à Programação e Pensamento Computacional
 - Introdução ao Git e ao GitHub
 - Criando se Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
-
-
 
 ### Módulo ll - Android: Desmistificando Kotlin.
 
